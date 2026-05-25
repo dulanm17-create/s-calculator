@@ -26,9 +26,3 @@ To run this program, you need a C compiler installed on your system.
 
 ---
 
-## 💻 How to Run
-
-1. **Clone the repository** (or download the `main.c` file):
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-   cd YOUR_REPOSITORY_NAME
